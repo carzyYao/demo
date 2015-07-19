@@ -1,0 +1,7 @@
+https://github.com/JustinTulloss/zeromq.node/issues/283
+
+1 install zmq using brew : brew install zmq
+2 export PKG_CONFIG_PATH=/usr/local/Cellar/zeromq/4.0.4/lib/pkgconfig/
+3 sudo visudo and add Defaults env_keep += "PKG_CONFIG_PATH"
+4 sudo npm install zmq 
+

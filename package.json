@@ -1,0 +1,30 @@
+{
+  "name": "yao",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "server.js",
+  "dependencies": {
+    "zmq": "^2.12.0",
+    "readline": "^0.0.8",
+    "keypress": "^0.2.1",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carzyYao/demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "bugs": {
+    "url": "https://github.com/carzyYao/demo/issues"
+  },
+  "homepage": "https://github.com/carzyYao/demo#readme"
+}
